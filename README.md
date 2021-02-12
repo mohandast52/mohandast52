@@ -3,16 +3,18 @@
 
 ## I'm a Software Engineer focused on FrontEnd!
 
-🔭 I have 2+ professional expereince in ReactJS, JS, CSS
-🔱 I'm in top 500 in [CSS Battle](https://cssbattle.dev/player/mohandast52)
-🎉 Currently I'm learing TS, GraphQL, HTML a11y and few other tools
-🥅 2021 Goals: Contribute more to Open Source projects, Improve my JS skills, become a nomad.
-⚡ Fun fact: I can write with my both hands
+🔭 I have 2+ professional expereince in ReactJS, JS, CSS <br />
+🔱 I'm in top 500 in [CSS Battle](https://cssbattle.dev/player/mohandast52) <br />
+🎉 Currently I'm learing TS, GraphQL, HTML a11y and few other tools <br />
+🥅 2021 Goals: Contribute more to Open Source projects, Improve my JS skills, become a nomad. <br />
+⚡ Fun fact: I can write with my both hands <br />
+
+<br />
 
 ### 📕 Some of my works
 
 - [Dashboard Clone](https://my-portfolio-mauve.now.sh/dashboard)
-- [Medium web scrapping (GIFs attached)](https://my-portfolio-mauve.now.sh/dashboard)
+- [Medium web scrapping (GIFs attached)](https://github.com/mohandast52/medium-scrapper)
 - [Drag and Drop using vanilla JS](https://mohandast52.github.io/MyCodes/html/dragAndDrop.html)
 - [Split Screen](https://mohandast52.github.io/MyCodes/html/splitScreenSlider.html)
 
