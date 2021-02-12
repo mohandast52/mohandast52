@@ -1,13 +1,13 @@
-### Hi there, I'm Mohan [website] 👋
+### Hi there, I'm [Mohan!](https://my-portfolio-mauve.now.sh) 👋
 
 
 ## I'm a Software Engineer focused on FrontEnd!
 
-- 🔭 I have 2+ professional expereince in ReactJS, JS, CSS
-- 🔱 I'm in top 500 in [Dashboard Clone](https://cssbattle.dev/player/mohandast52)
-- 🎉 Currently I'm learing TS, GraphQL, HTML a11y and few other tools
-- 🥅 2021 Goals: Contribute more to Open Source projects, Improve my JS skills, become a nomad.
-- ⚡ Fun fact: I can write with my both hands
+🔭 I have 2+ professional expereince in ReactJS, JS, CSS
+🔱 I'm in top 500 in [CSS Battle](https://cssbattle.dev/player/mohandast52)
+🎉 Currently I'm learing TS, GraphQL, HTML a11y and few other tools
+🥅 2021 Goals: Contribute more to Open Source projects, Improve my JS skills, become a nomad.
+⚡ Fun fact: I can write with my both hands
 
 ### 📕 Some of my works
 
@@ -30,19 +30,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="mohandast52 | Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mohandast52 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mohandast52 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mohandast52 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohandast52&layout=compact&theme=material-palenight)](https://github.com/mohandast52/github-readme-stats)
-
-![Mohan Das's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohandast52&show_icons=true&theme=cobalt)
-
-<br />
-<br />
 
 [website]: https://my-portfolio-mauve.now.sh/dashboard
 [twitter]: https://twitter.com/Mohan_Das_
