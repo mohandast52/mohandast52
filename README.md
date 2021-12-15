@@ -3,10 +3,10 @@
 
 ## I'm a Software Engineer focused on FrontEnd!
 
-- 🔭 I have 2+ professional experience in ReactJS, JS, CSS
-- 🔱 I'm in top 500 in [CSS Battle](https://cssbattle.dev/player/mohandast52)
-- 🎉 Currently, I'm learning TS, GraphQL, HTML a11y and few other tools
-- 🥅 2021 Goals: Contribute more to Open Source projects, Improve my JS skills, become a nomad.
+- 🔭 I have 3+ professional experience in TypeScript, ReactJS, JS, CSS
+- 🔱 I'm in top 1000 in [CSS Battle](https://cssbattle.dev/player/mohandast52)
+- 🎉 Currently, I'm learning Web3, HTML a11y, GraphQL and few other tools
+- 🥅 2022 Goals: Contribute more to Open Source projects, Improve my Web3, TS, JS skills.
 - ⚡ Fun fact: I can write with my both hands
 
 ### Some of my works
