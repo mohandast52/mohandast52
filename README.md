@@ -1,4 +1,4 @@
-### Hi there, I'm [Mohan!](https://my-portfolio-mauve.now.sh) 👋
+### Hi there, I'm [Mohan!](https://mohandast52.vercel.app) 👋
 
 
 ## I'm a Software Engineer focused on FrontEnd!
@@ -11,7 +11,7 @@
 
 ### Some of my works
 
-- [Dashboard Clone](https://my-portfolio-mauve.now.sh/dashboard)
+- [Dashboard Clone](https://mohandast52.vercel.app/dashboard)
 - [Medium web scrapping (GIFs attached)](https://github.com/mohandast52/medium-scrapper)
 - [Drag and Drop using vanilla JS](https://mohandast52.github.io/MyCodes/html/dragAndDrop.html)
 - [Split Screen](https://mohandast52.github.io/MyCodes/html/splitScreenSlider.html)
@@ -40,7 +40,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohandast52&layout=compact&theme=material-palenight)](https://github.com/mohandast52/github-readme-stats)
 
-[website]: https://my-portfolio-mauve.now.sh/dashboard
+[website]: https://mohandast52.vercel.app/dashboard
 [twitter]: https://twitter.com/Mohan_Das_
 [linkedin]: https://www.linkedin.com/in/mohandast52/
 [youtube]: https://www.youtube.com/channel/UCeo6vCGdYA0C0Bn3cnb5hQg
