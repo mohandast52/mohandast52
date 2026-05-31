@@ -1,11 +1,9 @@
 <h1 align="center">Hi there, I'm Mohan 👋</h1>
 
 <p align="center">
-  <b>Frontend Software Engineer</b> · React · TypeScript · JavaScript · CSS
-</p>
-
-<p align="center">
-  Crafting fast, accessible, pixel-perfect web experiences.
+  <a href="https://mohandast52.vercel.app" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Frontend+Software+Engineer;React+%7C+TypeScript+%7C+JavaScript+%7C+CSS;Building+fast%2C+accessible%2C+pixel-perfect+UIs;Web3+%2F+dApp+frontend+builder;CSS+Battle+top+3000" alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
@@ -117,6 +115,22 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohandast52&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2DA44E&fire=2DA44E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2DA44E&sideLabels=24292F&dates=57606A" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohandast52&bg_color=ffffff&color=2DA44E&line=2DA44E&point=24292F&area=true&area_color=A7F3D0&hide_border=true" alt="Contribution activity graph" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake.svg" />
+    <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
