@@ -18,6 +18,9 @@
   <a href="https://cssbattle.dev/player/mohandast52" target="_blank">
     <img src="https://img.shields.io/badge/CSSBattle-FFCE00?style=for-the-badge&logo=css3&logoColor=black" alt="CSS Battle" />
   </a>
+  <a href="https://www.hackerrank.com/profile/mohandast52" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
 
 ---
@@ -26,7 +29,7 @@
 
 - 🔭 Frontend-focused Software Engineer with **4+ years** building UIs in **TypeScript, React, JavaScript & CSS**
 - 🎨 CSS enthusiast — ranked in the **top 3000** on [CSS Battle](https://cssbattle.dev/player/mohandast52) (peaked in the top 500)
-- 🔗 Built **Web3 / dApp frontends** in the **Olas (Autonolas)** ecosystem at **Valory** — wallet flows, on-chain data & subgraphs
+- 🔗 Built **Web3 / dApp frontends** — wallet flows, on-chain data & subgraphs
 - 🌱 Currently leveling up on **Web3, accessibility (a11y) & GraphQL**
 - 🧩 I love turning tricky designs into clean, reusable, accessible components
 - ⚡ Fun fact: I'm **ambidextrous** — I can write with both hands
@@ -45,7 +48,11 @@
 
 **Web3 / Blockchain**
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white) ![wagmi](https://img.shields.io/badge/wagmi-1B1B1F?style=flat-square&logo=wagmi&logoColor=white) ![RainbowKit](https://img.shields.io/badge/RainbowKit-032863?style=flat-square&logo=rainbow&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white) ![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=thegraph&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethers&logoColor=white) ![wagmi](https://img.shields.io/badge/wagmi-1B1B1F?style=flat-square&logo=wagmi&logoColor=white) ![RainbowKit](https://img.shields.io/badge/RainbowKit-032863?style=flat-square&logo=rainbow&logoColor=white) ![The Graph](https://img.shields.io/badge/The_Graph-0C0A1C?style=flat-square&logo=thegraph&logoColor=white) ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+
+**AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Agent Orchestration](https://img.shields.io/badge/Agent_Orchestration-5A45FF?style=flat-square&logo=robotframework&logoColor=white) ![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 
 **Backend & APIs**
 
