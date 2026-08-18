@@ -26,11 +26,11 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Frontend-focused Software Engineer with **4+ years** building UIs in **TypeScript, React, JavaScript & CSS**
-- 🎨 CSS enthusiast — ranked in the **top 3000** on [CSS Battle](https://cssbattle.dev/player/mohandast52) (peaked in the top 500)
-- 🔗 Built **Web3 / dApp frontends** — wallet flows, on-chain data & subgraphs
+- 🎨 CSS enthusiast ranked in the **top 3000** on [CSS Battle](https://cssbattle.dev/player/mohandast52) (peaked in the top 500)
+- 🔗 Built **Web3 / dApp frontends**: wallet flows, on-chain data & subgraphs
 - 🌱 Currently leveling up on **Web3, accessibility (a11y) & GraphQL**
 - 🧩 I love turning tricky designs into clean, reusable, accessible components
-- ⚡ Fun fact: I'm **ambidextrous** — I can write with both hands
+- ⚡ Fun fact: I'm **ambidextrous** and can write with both hands
 
 ---
 
@@ -97,40 +97,8 @@
 
 ---
 
-### 📈 GitHub Insights
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohandast52&theme=vue" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohandast52&theme=vue" alt="Stats" />
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohandast52&theme=vue" alt="Top languages by repo" />
-</p>
-
-<p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohandast52&theme=vue" alt="Most committed language" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohandast52&theme=vue&utcOffset=5.5" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohandast52&hide_border=true&background=FFFFFF&stroke=E4E2E2&ring=2DA44E&fire=2DA44E&currStreakNum=24292F&sideNums=24292F&currStreakLabel=2DA44E&sideLabels=24292F&dates=57606A" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohandast52&bg_color=ffffff&color=2DA44E&line=2DA44E&point=24292F&area=true&area_color=A7F3D0&hide_border=true" alt="Contribution activity graph" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake.svg" />
-    <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/mohandast52/mohandast52/output/github-snake.svg" />
-  </picture>
 </p>
 
 ---
